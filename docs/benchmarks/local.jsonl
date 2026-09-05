@@ -1,0 +1,6 @@
+{"drivers":150,"feasible_pairs":3683,"matched":137,"mode":"greedy","requests":150,"routing_queries":289,"seed":7,"solve_ms":21.901,"total_wait_ms":351000}
+{"drivers":150,"feasible_pairs":3683,"matched":150,"mode":"batch","requests":150,"routing_queries":289,"seed":7,"solve_ms":33.27,"total_wait_ms":438000}
+{"drivers":150,"feasible_pairs":3505,"matched":140,"mode":"greedy","requests":150,"routing_queries":283,"seed":19,"solve_ms":21.029,"total_wait_ms":388000}
+{"drivers":150,"feasible_pairs":3505,"matched":149,"mode":"batch","requests":150,"routing_queries":283,"seed":19,"solve_ms":32.389,"total_wait_ms":383000}
+{"drivers":150,"feasible_pairs":3074,"matched":134,"mode":"greedy","requests":150,"routing_queries":288,"seed":41,"solve_ms":21.088,"total_wait_ms":335000}
+{"drivers":150,"feasible_pairs":3074,"matched":150,"mode":"batch","requests":150,"routing_queries":288,"seed":41,"solve_ms":32.191,"total_wait_ms":491000}

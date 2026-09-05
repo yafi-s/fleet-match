@@ -1,0 +1,20 @@
+{
+  "Nodes": 5,
+  "Version": 1,
+  "Now": 0,
+  "Edges": [
+    {"ID":0,"From":0,"To":1,"Millis":1},
+    {"ID":1,"From":1,"To":0,"Millis":1},
+    {"ID":2,"From":1,"To":2,"Millis":1},
+    {"ID":3,"From":2,"To":1,"Millis":1},
+    {"ID":4,"From":2,"To":3,"Millis":1},
+    {"ID":5,"From":3,"To":2,"Millis":1},
+    {"ID":6,"From":3,"To":4,"Millis":1},
+    {"ID":7,"From":4,"To":3,"Millis":1}
+  ],
+  "Drivers": [{"ID":"d1","Node":0,"AvailableAt":0},{"ID":"d2","Node":4,"AvailableAt":0}],
+  "Requests": [
+    {"ID":"r1","Pickup":1,"Dropoff":2,"RequestedAt":0,"LatestPickup":10},
+    {"ID":"r2","Pickup":0,"Dropoff":2,"RequestedAt":0,"LatestPickup":1}
+  ]
+}
