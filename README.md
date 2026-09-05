@@ -16,8 +16,8 @@ solver time. An exhaustive assignment oracle validates 400 randomized small
 problems; a separate Floyd–Warshall oracle validates routing.
 
 Relevant to marketplace optimization and geospatial infrastructure at companies
-such as Uber. No affiliation, proprietary data, or production marketplace
-performance is claimed.
+such as Uber. Built with AI assistance; no affiliation, proprietary data, or
+production marketplace performance is claimed.
 
 ## Run
 
